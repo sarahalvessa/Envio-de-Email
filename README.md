@@ -1,4 +1,4 @@
-# envio-de-email
+# Envio-de-Email
 Tecnologias utilizadas:
 -HTML
 -CSS(Flexbox)
